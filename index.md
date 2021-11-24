@@ -17,7 +17,7 @@ Cell and Molecular Biology PhD student at the University of Rhode Island
 ---
 ### Recent Projects
 I am currently working on investigating changes in transcription in response to nuclear pore defects in C9ORF72 neurons derived from iPSC. Below you can see a picture! 
-![Neurons]("https://github.com/mjgregoire/mjgregoire.github.io/blob/master/images/screenshotmonster007.JPG)
+![Neurons]("https://github.com/mjgregoire/mjgregoire.github.io/images/screenshotmonster007.JPG)
 
 
 ---
