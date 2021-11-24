@@ -3,10 +3,6 @@ logo: "/images/github_headshot.jpg?raw=true"> #your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    bio: PhD Student in Cell and Molecular Biology at the Univeristy of Rhode Island 
   <br><br>
-   education: BS Biology Salve Regina University, MS Cell and Molecular Biology University of New Haven, PhD Student Biological and Environmental Sciences Cell and Molecular Biology University of Rhode Island
-  <br><br>
-   work Experience: Undergraduate Research Assistant Salve Regina University, Research Assistant University of New Haven, Intern John B. Pierce Laboratory, Teaching Assistant - Administrative Assistant - Research Assistant University of Rhode Island 
-  <br><br>
   <a href="https://www.linkedin.com/in/michelle-gregoire-2017/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
