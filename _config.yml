@@ -1,13 +1,13 @@
-<p> Title: Michelle Gregoire <p> # your name (or website title) here
-<logo: "/images/github_headshot.jpg?raw=true"> #your photo (or logo) here
-#description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p> Bio: PhD Student in Cell and Molecular Biology at the Univeristy of Rhode Island <p>
+title: Michelle Gregoire  # your name (or website title) here
+logo: "/images/github_headshot.jpg?raw=true"> #your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+   Bio: PhD Student in Cell and Molecular Biology at the Univeristy of Rhode Island 
   <br><br>
-  <p> Education: BS Biology Salve Regina University, MS Cell and Molecular Biology University of New Haven, PhD Student Biological and Environmental Sciences Cell and Molecular Biology University of Rhode Island <p> 
+   Education: BS Biology Salve Regina University, MS Cell and Molecular Biology University of New Haven, PhD Student Biological and Environmental Sciences Cell and Molecular Biology University of Rhode Island
   <br><br>
-  <p> Work Experience: Undergraduate Research Assistant Salve Regina University, Research Assistant University of New Haven, Intern John B. Pierce Laboratory, Teaching Assistant - Administrative Assistant - Research Assistant University of Rhode Island <p>
+   Work Experience: Undergraduate Research Assistant Salve Regina University, Research Assistant University of New Haven, Intern John B. Pierce Laboratory, Teaching Assistant - Administrative Assistant - Research Assistant University of Rhode Island 
   <br><br>
   <a href="https://www.linkedin.com/in/michelle-gregoire-2017/">View My LinkedIn Profile</a> 
   
-<theme: jekyll-theme-minimal>
+theme: jekyll-theme-minimal
 
